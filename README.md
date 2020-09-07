@@ -43,3 +43,6 @@ Use the option `-n <sec>` to continue monitoring:
 
     sudo ./bld/nct6687d_mon -n 1
 
+## Screenshots
+
+![Screenshot](nct6687dmon.png?raw=true)
